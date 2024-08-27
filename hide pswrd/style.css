@@ -1,0 +1,38 @@
+*{
+font-family: sans-serif;
+padding: 0;
+margin: 0;
+
+}
+body{
+   background: #00025c;
+}
+.input-box{
+max-width: 500px;
+background: #ffffff;
+margin: 350px auto ;
+border-radius: 5px;
+display: flex;
+align-items: center;
+}
+.input-box input{
+   
+    font-style: italic;
+    width: 100%;
+    padding: 10px 0px;
+    border: 0;
+    outline: none;
+    font-size: 25px;
+    color: #000000;
+    font-weight: 600;
+    }
+.input-box img{
+    padding-right: 20px;
+    width: 30px;
+    cursor: pointer;
+}
+.input-box input::placeholder{
+color: #000b49;
+
+
+}

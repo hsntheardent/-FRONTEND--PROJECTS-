@@ -1,0 +1,25 @@
+*{margin: 0;
+    padding: 0;
+background: #910606;
+}
+.container{
+margin: 200px 500px;
+}
+.btn{
+    width: 150px;
+height: 50px;
+color: #b5c7b8;
+background: linear-gradient(rgba(0, 4, 255, 0.9),rgb(160, 28, 28));
+font-size: 30px;
+text-decoration: none;
+border: none;
+margin: 50px;
+font-style: italic;
+border-radius: 30px;
+justify-content: center;
+transition: 0.8s;
+}
+.btn:hover{   
+color: #fcfbf7;
+box-shadow: 5px 8px  #000000;
+}
